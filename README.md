@@ -13,4 +13,5 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 ### Expertise
 - PHP
 - JavaScript
+- TypeScript (Just Starting)
 - SQL Databases (Mysql & PostgreSQL)

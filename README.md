@@ -10,19 +10,19 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 - https://zaimazhar.tech/ (English)
 
 ### Skills
-- **Frontend**
+**Frontend**
 - HTML5
 - CSS3
 - JavaScript
 - TypeScript
 - VueJS
-- **Backend**
+**Backend**
 - PHP
 - JavaScript
 - TypeScript
 - SQL
 - No-SQL
-- **Frameworks / Libraries**
+**Frameworks / Libraries**
 - LoopBack
 - Laravel
 - Firebase

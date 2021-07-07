@@ -3,15 +3,31 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 
 ### What I'm Currently Up To?
 - [Final Year Project](https://github.com/zaimazhar97/Golf-Scoring-System)
-- [VueJS](https://vuejs.org/)
-- [LoopBack](https://loopback.io/)
+- [UCMS](https://github.com/zaimazhar97/UCMS)
 
 ### Check My Works!
 - https://devzaim.ml/ (Malay)
 - https://zaimazhar.tech/ (English)
 
-### Expertise
+### Skills
+- **Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- VueJS
+- **Backend**
 - PHP
 - JavaScript
-- TypeScript (Just Starting)
-- SQL Databases (Mysql & PostgreSQL)
+- TypeScript
+- SQL
+- No-SQL
+- **Frameworks / Libraries**
+- LoopBack
+- Laravel
+- Firebase
+- ExpressJS
+- VueJS
+- PugJS
+- TailwindCSS
+- NestJS (Just started)

@@ -16,12 +16,14 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 - JavaScript
 - TypeScript
 - VueJS
+
 **Backend**
 - PHP
 - JavaScript
 - TypeScript
 - SQL
 - No-SQL
+
 **Frameworks / Libraries**
 - LoopBack
 - Laravel

@@ -34,4 +34,4 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 - VueJS
 - PugJS
 - TailwindCSS
-- NestJS (Just started)
+- NestJS

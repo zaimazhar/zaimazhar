@@ -2,10 +2,10 @@
 My Name is Muhammad Zaim. I'm a web developer specialized in website programming languages like HTML5, CSS3, PHP, JavaScript and some Python. I'm also a hardcore fan of Laravel and its beauty.
 
 ### What I'm Currently Up To?
-- ~~Final Year Project~~
-- ~~[Solvnex](https://www.solvnex.com/)~~
-- ~~UCMS~~
-- [SoniKL](https://wearesonikl.com/)
+- ~~[Final Year Project](https://github.com/zaimazhar97/Golf-Scoring-System)~~ [Fullstack Development]
+- ~~[Solvnex](https://www.solvnex.com/)~~ [Backend Developement, Sub Developer]
+- ~~[UCMS](https://github.com/zaimazhar97/UCMS)~~ [Fullstack Development]
+- [SoniKL](https://wearesonikl.com/) [Backend Development, Main Developer]
 
 ### Check My Works!
 - https://devzaim.ml/ (Malay)

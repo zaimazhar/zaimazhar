@@ -2,8 +2,8 @@
 My Name is Muhammad Zaim. I'm a web developer specialized in website programming languages like HTML5, CSS3, PHP, JavaScript and some Python. I'm also a hardcore fan of Laravel and its beauty.
 
 ### What I'm Currently Up To?
-- [Final Year Project](https://github.com/zaimazhar97/Golf-Scoring-System)
-- [UCMS](https://github.com/zaimazhar97/UCMS)
+- ~~[Final Year Project](https://github.com/zaimazhar97/Golf-Scoring-System)
+- ~~[UCMS](https://github.com/zaimazhar97/UCMS)
 
 ### Check My Works!
 - https://devzaim.ml/ (Malay)

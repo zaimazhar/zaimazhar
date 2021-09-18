@@ -25,6 +25,7 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 - TypeScript
 - SQL
 - No-SQL
+- Redis
 
 **Frameworks / Libraries**
 - LoopBack
@@ -35,3 +36,12 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 - PugJS
 - TailwindCSS
 - NestJS
+
+**PaaS**
+- Heroku
+- Netlify
+
+**Servers**
+- AWS
+- Firebase Hosting
+- Shared Hosting (cPanel)

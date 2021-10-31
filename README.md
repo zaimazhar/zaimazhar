@@ -5,7 +5,7 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 - ~~[Final Year Project](https://github.com/zaimazhar97/Golf-Scoring-System)~~ [Fullstack Development]
 - ~~[Solvnex](https://www.solvnex.com/)~~ [Backend Developement, Sub Developer]
 - ~~[UCMS](https://github.com/zaimazhar97/UCMS)~~ [Fullstack Development]
-- [SoniKL](https://wearesonikl.com/) [Backend Development, Main Developer]
+- ~~[SoniKL](https://wearesonikl.com/)~~ [Backend Development, Main Developer]
 
 ### My Space!
 - https://devzaim.ml/ (Malay)

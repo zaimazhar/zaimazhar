@@ -8,7 +8,7 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 - ~~[SoniKL](https://wearesonikl.com/)~~ [Backend Development, Main Developer]
 
 ### My Space!
-- https://devzaim.ml/ (Malay)
+- https://devzaim.ml/ (Malay/English)
 - https://zaimazhar.tech/ (English)
 
 ### Skills

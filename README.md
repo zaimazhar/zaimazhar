@@ -11,37 +11,13 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 - https://devzaim.ml/ (Malay/English)
 - https://zaimazhar.tech/ (English)
 
-### Skills
-**Frontend**
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- VueJS
-
-**Backend**
-- PHP
-- JavaScript
-- TypeScript
-- SQL
-- No-SQL
-- Redis
-
-**Frameworks / Libraries**
-- LoopBack
-- Laravel
-- Firebase
-- ExpressJS
-- VueJS
-- PugJS
-- TailwindCSS
-- NestJS
-
-**PaaS**
-- Heroku
-- Netlify
-
-**Servers**
-- AWS
-- Firebase Hosting
-- Shared Hosting (cPanel)
+### Skill
+```js
+const frontend = ['HTML5', 'CSS3', 'JavaScript', 'VueJS'];
+const backend = ['PHP', 'JavaScript', 'TypeScript', 'SQL', 'No-SQL'];
+const caching = ['Redis'];
+const servers = ['AWS', 'Firebase', 'cPanel'];
+const frameworks = ['LoopBack', 'Laravel', 'Firebase', 'ExpressJS', 'TailwindCSS', 'NestJS'];
+const libraries = ['PugJS'];
+const paas = ['Heroku', 'Netlify'];
+```

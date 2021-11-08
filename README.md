@@ -13,11 +13,11 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 
 ### Skill
 ```js
-const frontend = ['HTML5', 'CSS3', 'JavaScript', 'VueJS'];
+const frontend = ['HTML5', 'CSS3', 'JavaScript'];
 const backend = ['PHP', 'JavaScript', 'TypeScript', 'SQL', 'No-SQL'];
 const caching = ['Redis'];
 const servers = ['AWS', 'Firebase', 'cPanel'];
-const frameworks = ['LoopBack', 'Laravel', 'Firebase', 'ExpressJS', 'TailwindCSS', 'NestJS'];
+const frameworks = ['VueJS', 'LoopBack', 'Laravel', 'Firebase', 'ExpressJS', 'TailwindCSS', 'NestJS'];
 const libraries = ['PugJS'];
 const paas = ['Heroku', 'Netlify'];
 ```

@@ -18,6 +18,6 @@ const backend = ['PHP', 'JavaScript', 'TypeScript', 'SQL', 'No-SQL'];
 const caching = ['Redis'];
 const servers = ['AWS', 'Firebase', 'cPanel'];
 const frameworks = ['VueJS', 'LoopBack', 'Laravel', 'Firebase', 'ExpressJS', 'TailwindCSS', 'NestJS'];
-const libraries = ['PugJS'];
+const libraries = ['PugJS', 'ChartJS'];
 const paas = ['Heroku', 'Netlify'];
 ```

@@ -6,6 +6,7 @@ My Name is Muhammad Zaim. I'm a web developer specialized in website programming
 - ~~[Solvnex](https://www.solvnex.com/)~~ [Backend Developement, Sub Developer]
 - ~~[UCMS](https://github.com/zaimazhar97/UCMS)~~ [Fullstack Development]
 - ~~[SoniKL](https://wearesonikl.com/)~~ [Backend Development, Main Developer]
+- Junior Developer at [FAR Capital Sdn Bhd](https://fardigitalventures.com/)
 
 ### My Space!
 - https://devzaim.ml/ (Malay/English)

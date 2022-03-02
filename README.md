@@ -9,8 +9,7 @@ My Name is Muhammad Zaim. I'm a web developer (from Malaysia!) specialized in we
 - Junior Developer at [FAR Capital Sdn Bhd](https://fardigitalventures.com/)
 
 ### My Space!
-- https://devzaim.ml/ (Malay/English)
-- https://zaimazhar.tech/ (English)
+- https://zaimblog-669aa.web.app/ (Malay/English)
 
 ### Skill
 ```js

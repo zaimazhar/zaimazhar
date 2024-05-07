@@ -10,14 +10,3 @@ My Name is Zaim. I'm a web developer (from Malaysia!) specialized in website pro
 
 ### My Space!
 - https://zaimblog-669aa.web.app/ (Malay/English)
-
-### Skill
-```js
-const frontend = ['HTML5', 'CSS3', 'JavaScript'];
-const backend = ['PHP', 'JavaScript', 'TypeScript', 'SQL', 'No-SQL'];
-const caching = ['Redis'];
-const servers = ['AWS', 'Firebase', 'cPanel'];
-const frameworks = ['VueJS', 'LoopBack', 'Laravel', 'Firebase', 'ExpressJS', 'TailwindCSS', 'NestJS'];
-const libraries = ['PugJS', 'ChartJS'];
-const paas = ['Heroku', 'Netlify'];
-```
